@@ -340,6 +340,10 @@ img{
     .include__container,.services__container{
         grid-template-columns: repeat(2,1fr);
     }
+    
+    .home__name{
+        font-size:2.5rem;
+    }
 }
 
 @media screen and (min-width: 768px) {
